@@ -484,7 +484,20 @@ open_to: [Full-time, Internship, Freelance, Open Source Collaboration]
 </div>
 
 ---
+## 🐍 Contribution Snake
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/zeyadbilal/zeyadbilal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/zeyadbilal/zeyadbilal/output/github-snake.svg" />
+  <img alt="github-snake"
+       src="https://raw.githubusercontent.com/zeyadbilal/zeyadbilal/output/github-snake.svg" />
+</picture>
+
+</div>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   FOOTER BANNER                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
